@@ -1,6 +1,6 @@
 # Raster-Pop-App
 
-> [Intro slides](/readme_slides.pdf) by [Harshvardhan](https://www.harsh17.in)
+> [Intro slides](/Slides.pdf) by [Harshvardhan](https://www.harsh17.in)
 
 **This repository contains codebase and related datasets/databases for Population Raster App.**
 
