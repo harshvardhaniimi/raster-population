@@ -33,5 +33,8 @@ them for future use. Next time someone uses the app again for Latvia, the proces
 
 ### Low Priority
 
-- Include support for years other than 2020. This is not a difficult thing to pull off but would require extensive computing resource, beyond what a l
-aptop can provide.
+- Include support for years other than 2020. This is not a difficult thing to pull off but would require extensive computing resource, beyond what a laptop can provide.
+
+# P.S.
+
+I do not work or engage with ASAR anymore. Due to other commitments, I had to drop this project. This app, despite its limitations, is useful.
